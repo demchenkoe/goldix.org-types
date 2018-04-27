@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/demchenkoe/goldix.org-types/issues"
   },
-  "homepage": "https://github.com/demchenkoe/goldix.org-types#readme"
+  "homepage": "https://github.com/demchenkoe/goldix.org-types#readme",
+  "dependencies": {
+    "@goldix.org/validator": "0.0.1"
+  }
 }
